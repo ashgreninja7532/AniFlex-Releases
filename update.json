@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.0",
-  "apkUrl": "PASTE_YOUR_APK_LINK_HERE_LATER",
+  "apkUrl": "https://github.com/ashgreninja7532/AniFlex-Releases/releases/download/v1.0.0/app-release.apk",
   "releaseNotes": "Initial release with OTA update system!",
   "isRequired": false
 }
